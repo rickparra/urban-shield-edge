@@ -66,5 +66,3 @@ Diagrama de ligação dos sensores e atuadores na placa Arduino
 
 - Banco de dados 
 - Aplicação servidor na nuvem
-
-Assim eu consigo estruturar os tópicos e destacar os títulos de forma visualmente organizada. Posso detalhar qualquer seção que necessitar. Por favor, me avise se deseja que eu formato o README completo ou alguma parte específica.
