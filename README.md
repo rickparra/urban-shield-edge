@@ -1,4 +1,3 @@
-Sim, posso formatar o README usando Markdown para destacar os títulos e torná-lo mais estilizado visualmente:
 
 # Detector de Ruas Perigosas
 
