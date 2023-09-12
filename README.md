@@ -39,6 +39,18 @@ O sistema é composto por vários componentes que trabalham em conjunto para col
 
 ![PostgreSQL](images/postgresql.jpg)
 
+## Funcionalidades
+
+### Visualização do Mapa de Denúncias
+
+Os usuários do UrbanShield podem criar uma conta e acessar a funcionalidade de visualização de mapas. Neste mapa, são exibidos marcadores que representam denúncias de outros usuários sobre lugares potencialmente perigosos. Isso permite que os usuários tenham uma visão geral das áreas que podem ser arriscadas.
+
+### Denúncias Online
+
+Uma das funcionalidades-chave do UrbanShield é a capacidade de criar denúncias online. Isso permite que os usuários contribuam para a classificação de um lugar como perigoso ou seguro. As denúncias online são uma maneira eficaz de coletar informações em tempo real sobre as condições das ruas.
+
+![Report](images/report.jpg)
+
 ## Componentes e Tecnologias
 
 Este projeto faz uso de uma variedade de componentes físicos e software, incluindo:
@@ -67,4 +79,4 @@ Abaixo está um diagrama de ligação dos sensores e atuadores na placa Arduino:
 - **Banco de Dados**: Para configurar o banco de dados PostgreSQL, siga as instruções fornecidas em [Configuração do Banco de Dados](cloud_setup.md).
 - **Aplicação Django na Nuvem**: Saiba como configurar a aplicação Django na nuvem no [Guia de Configuração da Aplicação](cloud_app_setup.md).
 
-Com esta estrutura organizada e estilizada, seu README oferece uma visão clara do projeto UrbanShield: Detector de Ruas Perigosas. Lembre-se de adicionar suas próprias imagens nas pastas correspondentes e atualizar os links das imagens no README. Se precisar de mais ajuda ou tiver alguma pergunta específica, fique à vontade para perguntar.
+Com esta estrutura organizada e estilizada, seu README oferece uma visão clara do projeto UrbanShield: Detector de Ruas Perigosas, incluindo a funcionalidade de denúncias online. Lembre-se de adicionar suas próprias imagens nas pastas correspondentes e atualizar os links das imagens no README. Se precisar de mais ajuda ou tiver alguma pergunta específica, fique à vontade para perguntar.
