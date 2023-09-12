@@ -14,7 +14,7 @@ Diagrama e descrição dos componentes:
 - Sensor de luminosidade 
 - Sensor de presença
 - Sensor de ruido
-- esp32
+- ESP32
 
 ### Placa Arduino
 
