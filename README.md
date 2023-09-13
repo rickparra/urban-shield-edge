@@ -27,7 +27,7 @@ O sistema é composto por vários componentes que trabalham em conjunto para col
 
 - Utilizados para a **aplicação web/mobile** que permite a visualização dos dados processados.
 
-![web-interface](https://github.com/rickparra/urban-shield-edge/assets/113686045/cb6d61e4-52b5-4505-aa7a-f66d8898b11a)
+![web-interface](https://github.com/rickparra/urban-shield-edge/assets/113686045/e0fa9334-eeb2-45cf-8baa-2f303e3de4a7)
 
 ### PostgreSQL
 
