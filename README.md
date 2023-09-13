@@ -1,12 +1,12 @@
 # UrbanShield: Detector de Ruas Perigosas
 
-![UrbanShield](images/urbanshield_logo.jpg)
+![logo do projeto](https://github.com/rickparra/urban-shield-edge/assets/113686045/1374e11d-9a52-4f85-a353-fb548a9d63f4)
 
 ## Descrição do Projeto
 
 UrbanShield é um sistema inovador que utiliza tecnologia IoT para monitorar e identificar ruas potencialmente perigosas. Este projeto tem como objetivo melhorar a segurança nas áreas urbanas, fornecendo dados em tempo real sobre condições adversas.
 
-![Dangerous Street](images/dangerous_street.jpg)
+![grafico de densidade das ruas](https://github.com/rickparra/urban-shield-edge/assets/113686045/ccb571ed-714d-4463-849a-40144f00808c)
 
 ## Arquitetura da Solução
 
@@ -19,25 +19,19 @@ O sistema é composto por vários componentes que trabalham em conjunto para col
 - **Sensor de Ruído**: Mede o nível de ruído no ambiente.
 - **ESP32**: Utilizado para comunicação e controle.
 
-![Sensors](images/sensors.jpg)
-
 ### Placa Arduino
 
 - Modelo **Uno**: Responsável pela aquisição e envio dos dados dos sensores.
-
-![Arduino Uno](images/arduino.jpg)
 
 ### Django e React
 
 - Utilizados para a **aplicação web/mobile** que permite a visualização dos dados processados.
 
-![Web Interface](images/web_interface.jpg)
+![web-interface](https://github.com/rickparra/urban-shield-edge/assets/113686045/96c108ff-4286-4a6a-b3f8-1a949cd7ca5c)
 
 ### PostgreSQL
 
 - Banco de dados utilizado para **armazenamento dos dados** coletados.
-
-![PostgreSQL](images/postgresql.jpg)
 
 ## Funcionalidades
 
@@ -48,8 +42,6 @@ Os usuários do UrbanShield podem criar uma conta e acessar a funcionalidade de 
 ### Denúncias Online
 
 Uma das funcionalidades-chave do UrbanShield é a capacidade de criar denúncias online. Isso permite que os usuários contribuam para a classificação de um lugar como perigoso ou seguro. As denúncias online são uma maneira eficaz de coletar informações em tempo real sobre as condições das ruas.
-
-![Report](images/report.jpg)
 
 ## Componentes e Tecnologias
 
@@ -67,7 +59,7 @@ Este projeto faz uso de uma variedade de componentes físicos e software, inclui
 
 Abaixo está um diagrama de ligação dos sensores e atuadores na placa Arduino:
 
-![Schematic](images/schematic.jpg)
+![print tinkercad](https://github.com/rickparra/urban-shield-edge/assets/113686045/25948609-3815-418c-8329-c4011d9456a4)
 
 ### Configuração
 
