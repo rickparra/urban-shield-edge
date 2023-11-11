@@ -70,3 +70,8 @@ Abaixo está um diagrama de ligação dos sensores e atuadores na placa Arduino:
 
 - **Banco de Dados**: Para configurar o banco de dados PostgreSQL, siga as instruções fornecidas em [Configuração do Banco de Dados](cloud_setup.md).
 - **Aplicação Django na Nuvem**: Saiba como configurar a aplicação Django na nuvem no [Guia de Configuração da Aplicação](cloud_app_setup.md).
+
+### Processor MQTT e atrelados
+
+-Foi implementado o protocolo **MQTT** na comunicação dos nossos dispositivos, por meio do simulador **Wokwi** pudemos mandar nossos dados para a Tago.io que faz o invio para o Bucket pelo **MQTT**
+-Link para o Wokwi: https://wokwi.com/projects/381043736507759617
