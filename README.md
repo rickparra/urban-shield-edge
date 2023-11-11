@@ -73,5 +73,7 @@ Abaixo está um diagrama de ligação dos sensores e atuadores na placa Arduino:
 
 ### Processor MQTT e atrelados
 
--Foi implementado o protocolo **MQTT** na comunicação dos nossos dispositivos, por meio do simulador **Wokwi** pudemos mandar nossos dados para a Tago.io que faz o invio para o Bucket pelo **MQTT**
+-Foi implementado o protocolo **MQTT** na comunicação dos nossos dispositivos, por meio do simulador Wokwi pudemos mandar nossos dados para a Tago.io que faz o envio para o Bucket pelo **MQTT**
 -Link para o Wokwi: https://wokwi.com/projects/381043736507759617
+
+Explicação mais detalhada: Os dados são produzidos dentro do Wokwi e são enviados para a Tago.io, dentro da Tago.io configuramos uma ação para manipular esses dados, armazenando-os dentro do bucket via **MQTT**; na área do dashboard podemos visualizar melhor os dados que estão sendo recebidos em tempo real.
