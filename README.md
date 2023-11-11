@@ -77,3 +77,5 @@ Abaixo está um diagrama de ligação dos sensores e atuadores na placa Arduino:
 -Link para o Wokwi: https://wokwi.com/projects/381043736507759617
 
 Explicação mais detalhada: Os dados são produzidos dentro do Wokwi e são enviados para a Tago.io, dentro da Tago.io configuramos uma ação para manipular esses dados, armazenando-os dentro do bucket via **MQTT**; na área do dashboard podemos visualizar melhor os dados que estão sendo recebidos em tempo real.
+
+-Link do vídeo Sprint4 no Youtube: https://youtu.be/7lNtLDjcdtg 
